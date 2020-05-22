@@ -7,7 +7,7 @@ Body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin: 10px auto 0 auto;
   font-family: 'Pacifico', cursive;
   color: #66BFBF;
@@ -15,7 +15,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.75rem;
   font-family: 'Quicksand', sans-serif;
   color: #66BFBF;
   margin: auto auto auto auto;
